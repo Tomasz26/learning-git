@@ -13,3 +13,4 @@ for store, things in shopping_dict.items():
     i += len(things)
 
 print(f"W sumie kupuję {i} produktów")
+print("Nobody expected the spanish inqusition")
