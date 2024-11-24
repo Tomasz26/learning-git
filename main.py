@@ -15,3 +15,6 @@ for store, things in shopping_dict.items():
 print(f"W sumie kupuję {i} produktów")
 print("Nobody expected the spanish inqusition")
 print("I like trains")
+
+for i in range(0,5):
+    print("I like python!")
